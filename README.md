@@ -1,5 +1,5 @@
 # 2016 Mathematical Contest in Modeling, Consortium for Mathematics and Its Applications (Question A)
-This project is finished by a group of 3 students within 96 hours, my contributions include participating modeling and summarizing our ideas (writing paper). Our solution was selected as Meritorious Winner (Top 8%). 
+This project is finished by a group of 3 students within 96 hours, my contributions include participating modeling and summarizing our ideas (writing paper). Our solution was selected as Meritorious Winner (Top 8%). The solution paper is here [Link](url:https://github.com/GAOYUEtianc/2016MCM/blob/master/mcm_nm/49267.pdf)
 
 # Question Description: 
 
